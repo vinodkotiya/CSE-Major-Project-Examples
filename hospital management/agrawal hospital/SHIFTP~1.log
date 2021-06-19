@@ -1,0 +1,13 @@
+Line 157: Class MSDataGridLib.DataGrid of control dgsearch was not a loaded control class.
+Line 163: The property name _ExtentX in dgsearch is invalid.
+Line 164: The property name _ExtentY in dgsearch is invalid.
+Line 165: The property name _Version in dgsearch is invalid.
+Line 166: The property name AllowUpdate in dgsearch is invalid.
+Line 168: The property name HeadLines in dgsearch is invalid.
+Line 169: The property name RowHeight in dgsearch is invalid.
+Line 178: The property name HeadFont in dgsearch is invalid.
+Line 188: The property name ColumnCount in dgsearch is invalid.
+Line 201: The property name Column00 in dgsearch is invalid.
+Line 214: The property name Column01 in dgsearch is invalid.
+Line 215: The property name SplitCount in dgsearch is invalid.
+Line 221: The property name Split0 in dgsearch is invalid.

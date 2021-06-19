@@ -1,0 +1,47 @@
+Line 2: Could not create reference: '{00025600-0000-0000-C000-000000000046}#5.1#0'.
+Line 13: Class Crystal.CrystalReport of control crReport4 was not a loaded control class.
+Line 31: Class Crystal.CrystalReport of control crReport1 was not a loaded control class.
+Line 51: Class Crystal.CrystalReport of control crReport3 was not a loaded control class.
+Line 16: The property name _ExtentX in crReport4 is invalid.
+Line 17: The property name _ExtentY in crReport4 is invalid.
+Line 18: The property name _Version in crReport4 is invalid.
+Line 19: The property name ReportFileName in crReport4 is invalid.
+Line 20: The property name WindowControlBox in crReport4 is invalid.
+Line 21: The property name WindowMaxButton in crReport4 is invalid.
+Line 22: The property name WindowMinButton in crReport4 is invalid.
+Line 23: The property name SelectionFormula in crReport4 is invalid.
+Line 24: The property name Connect in crReport4 is invalid.
+Line 25: The property name PrintFileLinesPerPage in crReport4 is invalid.
+Line 26: The property name WindowShowCloseBtn in crReport4 is invalid.
+Line 27: The property name WindowShowSearchBtn in crReport4 is invalid.
+Line 28: The property name WindowShowPrintSetupBtn in crReport4 is invalid.
+Line 29: The property name WindowShowRefreshBtn in crReport4 is invalid.
+Line 34: The property name _ExtentX in crReport1 is invalid.
+Line 35: The property name _ExtentY in crReport1 is invalid.
+Line 36: The property name _Version in crReport1 is invalid.
+Line 37: The property name ReportFileName in crReport1 is invalid.
+Line 38: The property name WindowControlBox in crReport1 is invalid.
+Line 39: The property name WindowMaxButton in crReport1 is invalid.
+Line 40: The property name WindowMinButton in crReport1 is invalid.
+Line 41: The property name PrintFileName in crReport1 is invalid.
+Line 42: The property name PrintFileType in crReport1 is invalid.
+Line 43: The property name Connect in crReport1 is invalid.
+Line 44: The property name SQLQuery in crReport1 is invalid.
+Line 45: The property name PrinterStartPage in crReport1 is invalid.
+Line 46: The property name PrintFileLinesPerPage in crReport1 is invalid.
+Line 47: The property name WindowShowCloseBtn in crReport1 is invalid.
+Line 48: The property name WindowShowPrintSetupBtn in crReport1 is invalid.
+Line 49: The property name WindowShowRefreshBtn in crReport1 is invalid.
+Line 54: The property name _ExtentX in crReport3 is invalid.
+Line 55: The property name _ExtentY in crReport3 is invalid.
+Line 56: The property name _Version in crReport3 is invalid.
+Line 57: The property name ReportFileName in crReport3 is invalid.
+Line 58: The property name WindowControlBox in crReport3 is invalid.
+Line 59: The property name WindowMaxButton in crReport3 is invalid.
+Line 60: The property name WindowMinButton in crReport3 is invalid.
+Line 61: The property name Connect in crReport3 is invalid.
+Line 62: The property name PrintFileLinesPerPage in crReport3 is invalid.
+Line 63: The property name WindowShowCloseBtn in crReport3 is invalid.
+Line 64: The property name WindowShowSearchBtn in crReport3 is invalid.
+Line 65: The property name WindowShowPrintSetupBtn in crReport3 is invalid.
+Line 66: The property name WindowShowRefreshBtn in crReport3 is invalid.

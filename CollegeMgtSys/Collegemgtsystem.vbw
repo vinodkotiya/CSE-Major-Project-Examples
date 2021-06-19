@@ -1,0 +1,12 @@
+FrmFacltDetails = 44, 44, 622, 364, C, 22, 22, 600, 342, C
+CFrmMain = 101, 26, 557, 299, C, 22, 22, 462, 360, C
+FrmPassword = 0, 0, 272, 338, C, 60, 40, 434, 302, C
+FrmSDetails = 82, 36, 542, 374, Z, 17, 13, 477, 351, C
+FrmEditUser = 88, 88, 369, 396, C, 22, 22, 371, 360, C
+FrmCourse = 154, 154, 498, 474, , 22, 22, 664, 342, C
+FrmCourseInfo = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FrmEnq = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FrmIncome = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FrmOutGo = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FrmEnqDetails = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+SeqGen = 110, 110, 454, 430, 

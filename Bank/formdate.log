@@ -1,0 +1,16 @@
+Line 3: Could not create reference: '{00025600-0000-0000-C000-000000000046}#5.1#0'.
+Line 15: Class Crystal.CrystalReport of control crReport5 was not a loaded control class.
+Line 18: The property name _ExtentX in crReport5 is invalid.
+Line 19: The property name _ExtentY in crReport5 is invalid.
+Line 20: The property name _Version in crReport5 is invalid.
+Line 21: The property name ReportFileName in crReport5 is invalid.
+Line 22: The property name WindowControlBox in crReport5 is invalid.
+Line 23: The property name WindowMaxButton in crReport5 is invalid.
+Line 24: The property name WindowMinButton in crReport5 is invalid.
+Line 25: The property name Connect in crReport5 is invalid.
+Line 26: The property name DiscardSavedData in crReport5 is invalid.
+Line 27: The property name PrintFileLinesPerPage in crReport5 is invalid.
+Line 28: The property name WindowShowCloseBtn in crReport5 is invalid.
+Line 29: The property name WindowShowSearchBtn in crReport5 is invalid.
+Line 30: The property name WindowShowPrintSetupBtn in crReport5 is invalid.
+Line 31: The property name WindowShowRefreshBtn in crReport5 is invalid.

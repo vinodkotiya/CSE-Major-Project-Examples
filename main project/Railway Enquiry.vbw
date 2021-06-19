@@ -1,0 +1,12 @@
+frmSplash = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmLogin = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmoutput = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+MDIForm1 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frminput = 0, 0, 0, 0, C, 22, 22, 547, 462, C
+frmsch = 66, 66, 591, 506, C, 44, 44, 569, 484, C
+frmschoutput = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmfare = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Module1 = 0, 0, 0, 0, C
+frmpnr = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmdetail = 0, 0, 0, 0, C, 0, 0, 0, 0, C

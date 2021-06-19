@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog Upgraded = "True" >
+    <Settings>
+        <Setting
+            Name = "LogFile"
+            Value = "College Management1.log"
+        />
+        <Setting
+            Name = "GenerateInterfacesForClasses"
+            Value = "FALSE"
+        />
+        <Setting
+            Name = "ProjectName"
+            Value = "College Management1"
+        />
+        <Setting
+            Name = "OutputName"
+            Value = "College Management1.vbproj"
+        />
+        <Setting
+            Name = "OutputDir"
+            Value = "E:\New Folder\college management\Project1.NET"
+        />
+        <Setting
+            Name = "ProjectPath"
+            Value = "E:\New Folder\college management\College Management1.vbp"
+        />
+        <Setting
+            Name = "MigrateProjectTo"
+            Value = "0"
+        />
+    </Settings>
+    <File
+        OldPath = "E:\New Folder\college management\Form1.frm"
+        NewPath = "E:\New Folder\college management\Project1.NET\form1.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "(Layout)" >
+            <Issue
+                Type = "Design"
+                Number = "2056"
+                ObjectName = "Combo3"
+                ObjectType = "ComboBox"
+                PME = "ItemData"
+            >ComboBox property Combo3.ItemData was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2056"
+                ObjectName = "Combo2"
+                ObjectType = "ComboBox"
+                PME = "ItemData"
+            >ComboBox property Combo2.ItemData was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2056"
+                ObjectName = "Combo1"
+                ObjectType = "ComboBox"
+                PME = "ItemData"
+            >ComboBox property Combo1.ItemData was not upgraded.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "E:\New Folder\college management\Form4.frm"
+        NewPath = "E:\New Folder\college management\Project1.NET\Form4.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "(Layout)" >
+            <Issue
+                Type = "Design"
+                Number = "2056"
+                ObjectName = "Combo3"
+                ObjectType = "ComboBox"
+                PME = "ItemData"
+            >ComboBox property Combo3.ItemData was not upgraded.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "E:\New Folder\college management\Form9.frm"
+        NewPath = "E:\New Folder\college management\Project1.NET\Form9.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "E:\New Folder\college management\Form10.frm"
+        NewPath = "E:\New Folder\college management\Project1.NET\Form10.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "E:\New Folder\college management\Form11.frm"
+        NewPath = "E:\New Folder\college management\Project1.NET\Form11.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "E:\New Folder\college management\Form12.frm"
+        NewPath = "E:\New Folder\college management\Project1.NET\Form12.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "E:\New Folder\college management\Form13.frm"
+        NewPath = "E:\New Folder\college management\Project1.NET\Form13.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "E:\New Folder\college management\Form14.frm"
+        NewPath = "E:\New Folder\college management\Project1.NET\Form14.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "E:\New Folder\college management\Form15.frm"
+        NewPath = "E:\New Folder\college management\Project1.NET\Form15.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "E:\New Folder\college management\Form16.frm"
+        NewPath = "E:\New Folder\college management\Project1.NET\Form16.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "E:\New Folder\college management\Form17.frm"
+        NewPath = "E:\New Folder\college management\Project1.NET\Form17.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "E:\New Folder\college management\Mainform1.frm"
+        NewPath = "E:\New Folder\college management\Project1.NET\Mainform1.vb"
+        FileType = "MDI Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "E:\New Folder\college management\Module1.bas"
+        NewPath = "E:\New Folder\college management\Project1.NET\Module1.vb"
+        FileType = "Module"
+        Upgraded = "False"
+    />
+    <Issue
+        Type = "Global Error"
+        Number = "4002"
+    >Could not load referenced components: dao2535.tlb (Microsoft DAO 2.5/3.51 Compatibility Library 3.5.0) MSCDRUN.DLL (Microsoft Connection Designer Instance 1.0 1.0.0) It is recommended you install VB6.0, with all referenced components, and ensure the application compiles and runs before upgrading.</Issue>
+</UpgradeLog>
+

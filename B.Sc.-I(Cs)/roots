@@ -1,0 +1,71 @@
+	     /*Program to find roots of quadratic eqation*/
+	
+	#include<stdio.h>
+	#include<math.h>
+	#include<conio.h>
+	void main	()
+	{
+		int a,b,c;
+		float d,d1,r1,r2;
+		clrscr();
+		printf("\n Enter the value of a,b,c :");
+		scanf("%d%d%d",&a,&b,&c);
+		d=(b*b-4*a*c);
+		if(d==0)
+		{
+			r1=-b/2*a;
+			printf("\n Roots are=%f",r1);
+		}
+		else if(d>0)
+		{
+			d1 = sqrt(d);
+			r1=(-b+d1)/2*a;
+			r2=(-b-d1)/2*a;
+			printf("\n Roots are =0\n %f\n %f",r1,r2);
+		}
+		else
+		{
+			printf("\n Roots are imagniry");
+		}
+		getch();
+	}
+
+***************************************************************
+	
+	/* OUTPUT */
+	Enter the value of a,b,c :1 2 1
+	Roots are = -1.000000
+	
+	Enter the value of a,b,c :1 1 4
+	Roots are imagniry
+	
+	Enter the value of a,b,c :1 4 1
+	Roots are =
+		   -0.267949
+		   -3.732051
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
